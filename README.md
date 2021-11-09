@@ -6,3 +6,4 @@ Tuesday's GitHub demo
 
 I am now about to push this to the cloud.
 
+This is an edit accomplished via GITHUB.COM browser-based edit.
